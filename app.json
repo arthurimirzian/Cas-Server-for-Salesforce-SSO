@@ -1,0 +1,9 @@
+{
+    "name": "CAS Server for Salesforce SSO",
+    "env": {
+        "SECRET": "",
+        "PASSWORD": "",
+        "URL_FAVICON": "",
+        "URL_LOGO": ""
+    }
+}

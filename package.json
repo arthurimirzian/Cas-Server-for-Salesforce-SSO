@@ -1,0 +1,23 @@
+{
+  "name": "SALESFORCECASSSO",
+  "description": "CAS Server for Salesforce SSO",
+  "version": "0.1.0",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "crypto": "^1.0.1",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.1",
+    "express-session": "^1.15.6",
+    "querystring": "^0.2.0",
+    "request": "^2.83.0"
+  },
+  "engines": {
+    "node": "8.9.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
